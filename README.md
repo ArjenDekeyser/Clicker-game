@@ -1,4 +1,4 @@
-# Moon Orchard: Cosmic Clicker
+﻿# Moon Orchard: Cosmic Clicker
 
 An original, multi-world idle clicker. Harvest resources, grow unusual gardens, automate production, and explore three distinct worlds.
 
@@ -41,7 +41,7 @@ Open `index.html` in a modern browser. Keep `world-packs.js` beside it; that fil
 
 ## Other features
 
-- Developer controls from the moon button (code: `jens is de beste`)
+
 - Sound toggle, reset confirmation, responsive layout, and local browser saves
 =======
 - 43 Stardust upgrades spanning click power, autoclicking, production, and global boosts, balanced around consistent payback windows by tier
@@ -59,3 +59,4 @@ Open `index.html` in a modern browser. Keep `world-packs.js` beside it; that fil
 - Responsive layout, sound toggle, field notes, and reset confirmation
 - Local browser save; no account or server required
 >>>>>>> 8d28d3001ad8d6f8f34f363572dca17d8716f705
+
