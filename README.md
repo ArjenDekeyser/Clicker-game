@@ -23,7 +23,7 @@ Open `index.html` in a modern browser. No install or server is required. Your pr
 
 ## Features
 
-- 43 Stardust upgrades spanning click power, autoclicking, production, and global boosts, balanced around consistent payback windows by tier
+- 90 Stardust upgrades spanning click power, autoclicking, production, and global boosts, balanced around consistent payback windows by tier
 - Nine separate Echo upgrades in the post-game Reflection Sea
 - Nine unlockable lunar gardens with increasing production bonuses
 - 17 world-harvest milestones and 14 garden expeditions for long-run goals
